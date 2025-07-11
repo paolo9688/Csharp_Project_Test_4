@@ -1,4 +1,4 @@
-﻿int eroeVita = 50;
+int eroeVita = 50;
 int mostroVita = 50;
 
 int eroeAttacco = 0;
